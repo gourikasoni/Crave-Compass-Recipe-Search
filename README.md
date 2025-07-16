@@ -49,22 +49,6 @@
 
 ---
 
-## 📁 Folder Structure
-
-📦 Crave-Compass-Recipe-Search
-┣ 📂 Login Page/
-┣ 📜 index.html
-┣ 📜 index.js
-┣ 📜 recipe.js
-┣ 📜 recipe.html
-┣ 📜 recipe.css
-┣ 📜 recipes.js
-┣ 📜 style.css
-┣ 📜 searchBar.css
-┣ 📜 privacy_policy.html
-┣ 📜 Terms&Conditions.html
-┣ 📜 README.md
----
 
 ## 🚀 How to Run Locally
 
